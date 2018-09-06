@@ -1,0 +1,25 @@
+table {
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	text-transform: capitalize;
+	font-weight: 800;
+	font-size: 23px;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+.center {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.top-bott {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
